@@ -1,6 +1,14 @@
 ![system photo](./image/systemInfo.png)
 
 # system-details
+![npm](https://img.shields.io/npm/v/system-details?logo=NPM)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/shivam-chahar/system-details?logo=GitHub)
+![GitHub all releases](https://img.shields.io/github/downloads/shivam-chahar/system-details/total?color=green&logo=GitHub)
+![npm collaborators](https://img.shields.io/npm/collaborators/system-details?color=green&logo=NPM)
+![GitHub top language](https://img.shields.io/github/languages/top/shivam-chahar/system-details?logo=github)
+![GitHub issues](https://img.shields.io/github/issues/shivam-chahar/system-details?logo=github)
+![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/Shivam-Chahar/system-details)
+
 
 system-details is a npm package to show all important system information.
 
