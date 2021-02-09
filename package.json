@@ -1,0 +1,22 @@
+{
+  "name": "system-details",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin" : {
+    "system-details": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivam-Chahar/system-details.git"
+  },
+  "author": "Shivam Chahar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shivam-Chahar/system-details/issues"
+  },
+  "homepage": "https://github.com/Shivam-Chahar/system-details#readme"
+}
