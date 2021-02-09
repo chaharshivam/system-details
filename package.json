@@ -1,7 +1,8 @@
 {
   "name": "system-details",
   "version": "1.0.0",
-  "description": "",
+  "description": "system-details shows all the important details about the system",
+  "keywords": ["system","information","system details","details","system information","os details","operating system"],
   "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
