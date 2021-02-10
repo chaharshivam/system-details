@@ -2,13 +2,21 @@
   "name": "system-details",
   "version": "1.0.0",
   "description": "system-details shows all the important details about the system",
-  "keywords": ["system","information","system details","details","system information","os details","operating system"],
+  "keywords": [
+    "system",
+    "information",
+    "system details",
+    "details",
+    "system information",
+    "os details",
+    "operating system"
+  ],
   "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin" : {
-    "system-details": "./cli.js"
+  "bin": {
+    "system-details": "cli.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/Shivam-Chahar/system-details/issues"
   },
-  "homepage": "https://github.com/Shivam-Chahar/system-details#readme"
+  "homepage": "https://github.com/Shivam-Chahar/system-details#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }

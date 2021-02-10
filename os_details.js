@@ -1,4 +1,5 @@
 const os = require('os');
+
 function check_platform(){
     let platform = os.platform();
     let platform_name = null;
