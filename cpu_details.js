@@ -7,7 +7,7 @@ function cpuCount() {
 function cpu() {
     let cpu_contain = os.cpus();
     let cpu_arr = [];
-    for ( i = 0 ; i<cpu_contain.length ; i++){
+    for ( let i = 0 ; i < cpu_contain.length ; i++){
         let new_cpu_obj = {
             "Model" : cpu_contain[i].model,
             "Speed (MHz)" : cpu_contain[i].speed,

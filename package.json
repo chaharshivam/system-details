@@ -9,7 +9,8 @@
     "details",
     "system information",
     "os details",
-    "operating system"
+    "operating system",
+    "cli"
   ],
   "main": "cli.js",
   "scripts": {
@@ -29,6 +30,7 @@
   },
   "homepage": "https://github.com/Shivam-Chahar/system-details#readme",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "speedtest-net": "^1.6.2"
   }
 }
