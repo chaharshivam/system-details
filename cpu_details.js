@@ -13,7 +13,6 @@ function cpu() {
             "Speed (MHz)" : cpu_contain[i].speed,
             "user mode (milliseconds)" : cpu_contain[i].times.user,
             "idle mode (milliseconds)" : cpu_contain[i].times.idle,
-            "nice mode (milliseconds)" : cpu_contain[i].times.nice,
             "sys mode (milliseconds)" : cpu_contain[i].times.sys,
             "irq mode (milliseconds)" : cpu_contain[i].times.irq,
         };

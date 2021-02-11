@@ -12,7 +12,7 @@ console.table(numCPU);
 console.table(detailCPU);
 console.log("\n"+chalk.cyan.underline.bold("Network Speed :")+" (will take 1-2 minutes to calculate)");
 console.log(chalk.cyan.bold("\n\t\tTest performed using SPEEDTEST by OOKLA"));
-const child = spawn('speedtest-net', {
+const child = spawn('find . -type f | speedtest-net -l', {
     stdio: 'inherit',
     shell: true
     }).on('data', (chunk) => {
