@@ -1,6 +1,6 @@
 <div align="center">
 
-![system photo](./image/systemInfo.png)
+![system photo](assets/systemInfo.png)
 
 # system-details
 ![npm](https://img.shields.io/npm/v/system-details?logo=NPM)
@@ -53,6 +53,10 @@ Run using command:
 ```bash
 npm run system-details
 ```
+
+##Demo
+![system-details demo](./assets/demo.gif)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
