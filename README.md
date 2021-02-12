@@ -54,7 +54,7 @@ Run using command:
 npm run system-details
 ```
 
-##Demo
+## Demo
 ![system-details demo](./assets/demo.gif)
 
 ## Contributing
