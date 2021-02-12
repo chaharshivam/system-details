@@ -32,6 +32,7 @@
   "homepage": "https://github.com/Shivam-Chahar/system-details#readme",
   "dependencies": {
     "chalk": "^4.1.0",
+    "draftlog": "^1.0.12",
     "speedtest-net": "^1.6.2"
   }
 }
